@@ -22,7 +22,7 @@
 
 ### 3. 複製程式碼
 
-複製我這repo裡面 [main](https://github.com/Tzufu0411/NCUE-TronClass-Bookmarklet/blob/main/main) 的程式碼。
+複製我這 repo 裡面 [main](https://github.com/Tzufu0411/NCUE-TronClass-Bookmarklet/blob/main/main) 的程式碼。
 
 <br>
 
@@ -34,7 +34,7 @@
 
 進入 TronClass 的課程頁面。
 
-在 **Content** 頁面可以一次處理全部課程。
+在 `content#` 頁面可以一次處理全部課程。
 
 <br>
 
