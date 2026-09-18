@@ -22,7 +22,7 @@
 
 ### 3. 複製程式碼
 
-複製 GitHub Repository `main` 裡面的程式碼。
+複製我這repo裡面 [main](https://github.com/Tzufu0411/NCUE-TronClass-Bookmarklet/blob/main/main) 的程式碼。
 
 <br>
 
