@@ -24,7 +24,7 @@
 
 ### 3. 複製程式碼
 
-複製我這個 repo 裡面 [main](https://github.com/Tzufu0411/NCUE-TronClass-Bookmarklet/blob/main/main.js) 的程式碼。
+複製我這個 repo 裡面的 [main.js](https://github.com/Tzufu0411/NCUE-TronClass-Bookmarklet/blob/main/main.js)。
 
 <br>
 
